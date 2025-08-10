@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Dhaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m DHAYANANTH E👋
+**AI/ML • Frontend & Full-Stack Web Developer • Curious problem-solver**
 
-<!---
-/Dhaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a final-year engineering student building at the intersection of **web development** and **machine learning/AI**. I love turning ideas into usable products — from responsive frontends to data-driven models — and I learn best by doing: shipping features, iterating from feedback, and improving through failures. Currently working full-time at **Webocrats** and actively exploring ML applications.
+
+---
+
+## What I do
+- Build scalable, user-focused web applications using modern frontend frameworks and pragmatic backend patterns.  
+- Explore and prototype ML/AI solutions, especially applications that connect imaging/data with actionable insights.  
+- Work across the stack: I enjoy UI polish, performance tuning, and creating reproducible data workflows.
